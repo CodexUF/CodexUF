@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-|   I am [Usman](https://github.com) , Software Engineer based in Pakistan.  
+>  I am [Usman](https://github.com) , Software Engineer based in Pakistan.  
 
  I convert ideas into software solution.  
  
