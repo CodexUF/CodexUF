@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**CodexUF/CodexUF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|   I am [Usman](https://github.com) , Software Engineer based in Pakistan.  
 
-Here are some ideas to get you started:
+ I convert ideas into software solution.  
+ 
+ If the idea pops into my head, chances are I'll build it and ship it.  
+ 
+ My main tech stack are MERN stack and some AI tools that supports my ideas.  
+ 
+ I have some bunch of Projects that are public. I hope you like it and support me.   
+ 
+ How to reach me: usmfrq24@gmail.com.  
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Fun fact:   
+     &#9679;  I have a cat.  
+     &#9679;  I dont like coffee but tea.  
+     &#9679;  I play cricket football and pubg.
+
+
+
+
+
