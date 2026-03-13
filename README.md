@@ -13,10 +13,13 @@
  How to reach me: usmfrq24@gmail.com.  
  
 
- Fun fact:   
-     &#9679;  I have a cat.  
-     &#9679;  I dont like coffee but tea.  
-     &#9679;  I play cricket football and pubg.
+ Fun fact:
+
+ &#9679;  I have a cat.    
+ 
+ &#9679;  I dont like coffee but tea.    
+ 
+ &#9679;  I play cricket football and pubg.
 
 
 
